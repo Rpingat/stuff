@@ -1,17 +1,12 @@
 {
-  "Asus": {
     "X01AD": {
       "devicename": "Asus Max M2",
       "maintainer": "@danascape"
-    }
-  },
-  "Lenovo": {
+    },
     "jd2019" :{
       "devicename": "Lenovo Z5s",
       "maintainer": "@victor10520"
-    }
-  },
-  "Realme": {
+    },
     "RMX1801": {
       "devicename": "Realme 2 Pro",
       "maintainer": "@Ad1tyaS1ngh"
@@ -19,32 +14,29 @@
     "RMX2185": {
       "devicename": "Realme C11",
       "maintainer": "@minatiscape"
-    }
-  },
-  "Xiaomi": {
-   "land": {
-     "devicename": "Xiaomi Redmi 3s",
-     "maintainer": "@ThePerfectCat"
     },
-   "raphael": {
-     "devicename": "Xiaomi Redmi K20 Pro",
-     "maintainer": "@pavanpaps"
+    "land": {
+      "devicename": "Xiaomi Redmi 3s",
+      "maintainer": "@ThePerfectCat"
     },
-   "violet": {
-     "devicename": "Xiaomi Redmi Note 7 Pro",
-     "maintainer": "@raghavt20"
+    "raphael": {
+      "devicename": "Xiaomi Redmi K20 Pro",
+      "maintainer": "@pavanpaps"
+    },
+    "violet": {
+      "devicename": "Xiaomi Redmi Note 7 Pro",
+      "maintainer": "@raghavt20"
     },
     "lavender": {
-     "devicename": "Xiaomi Redmi Note 7",
-     "maintainer": "@linuxislob"
+      "devicename": "Xiaomi Redmi Note 7",
+      "maintainer": "@linuxislob"
     },
     "lancelot": {
       "devicename": "Xiaomi Redmi 9",
       "maintainer": "@henloboi"
-     },
-     "miatoll": {
+    },
+    "miatoll": {
       "devicename": "Xiaomi Redmi Note 9S",
       "maintainer": "@henloboi"
-     }
-  }
+    }
 }
