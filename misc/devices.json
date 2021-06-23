@@ -38,5 +38,9 @@
     "miatoll": {
       "devicename": "Xiaomi Redmi Note 9S",
       "maintainer": "@henloboi"
+    },
+    "x3": {
+      "devicename": "Realme X3",
+      "maintainer": "@ghostrider_reborn"
     }
 }
